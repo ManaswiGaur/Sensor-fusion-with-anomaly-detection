@@ -1,5 +1,9 @@
 # 🔬 Sensor Fusion with Anomaly Detection
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=googlechrome)](https://heavy-banks-bathe.loca.lt)
+
+A machine learning project that combines data from multiple sensor modalities...
+
 A machine learning project that combines data from multiple sensor modalities and applies anomaly detection techniques to identify unusual or suspicious patterns. By fusing sensor inputs into a unified representation, the system achieves more robust and accurate anomaly detection than any single sensor could provide alone.
 
 ---
